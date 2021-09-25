@@ -1,2 +1,3 @@
-# Linux_ShellScript
-Practice Linux, Shell Script Programming
+# Linux_Practice
+
+Practice Linux, Kernel/Shell Script Programming
