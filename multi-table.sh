@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# Multi-table.sh - Linux Assignment 3
+
 n=$1
 m=$2
 
